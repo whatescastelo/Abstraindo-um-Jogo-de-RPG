@@ -1,2 +1,2 @@
 # Abstraindo-um-Jogo-de-RPG
-Abstraindo um jogo de RPG usando Orientação a Objetos com C#.
+Nesse projeto, foi praticado os conceitos de Orientação a Objetos usando como exemplo um jogo de RPG. Através dos códigos, foi possível entender a herança, o encapsulamento, o polimorfismo e a abstração.
