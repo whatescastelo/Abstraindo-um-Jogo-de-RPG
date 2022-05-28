@@ -1,0 +1,15 @@
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\bin\Debug\net6.0\dotnet POO.exe
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\bin\Debug\net6.0\dotnet POO.deps.json
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\bin\Debug\net6.0\dotnet POO.runtimeconfig.json
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\bin\Debug\net6.0\dotnet POO.dll
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\bin\Debug\net6.0\dotnet POO.pdb
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.csproj.AssemblyReference.cache
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.AssemblyInfoInputs.cache
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.AssemblyInfo.cs
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.csproj.CoreCompileInputs.cache
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.dll
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\refint\dotnet POO.dll
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.pdb
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\dotnet POO.genruntimeconfig.cache
+C:\Users\wtcas\OneDrive\Documentos\Programas em C#\Cursos da DIO\dotnet POO\obj\Debug\net6.0\ref\dotnet POO.dll
